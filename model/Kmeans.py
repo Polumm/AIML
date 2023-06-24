@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2023/6/24 23:07
+# @Author  : 宋楚嘉
+# @FileName: KMeans.py
+# @Software: PyCharm
+# @Blog    ：https://github.com/Polumm
+
 from model.FCM import FCM
 import numpy as np
 import time

@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2023/6/24 23:07
+# @Author  : 宋楚嘉
+# @FileName: LinearRegression.py
+# @Software: PyCharm
+# @Blog    ：https://github.com/Polumm
+
 class LinearRegression:
 
     def __init__(self, alpha=0.03, n_iterations=1500):
